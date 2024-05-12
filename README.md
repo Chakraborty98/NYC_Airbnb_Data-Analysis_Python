@@ -14,4 +14,6 @@ All stages are present:
 
 **cleaned_dataset.csv** is the final cleaned dataset file which has been used for EDA and visualization.
 
+**pdf_dataanalysis.pdf** can be used to look into the overall output along with codes in one file.
+
 Click [here](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata) to check the original dataset.
