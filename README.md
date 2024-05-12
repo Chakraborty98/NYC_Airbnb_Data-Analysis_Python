@@ -11,6 +11,7 @@ All stages are present:
 4. Data Visualization
 
 **Airbnb_Open_Data.csv** is the file used as dataset.
+
 **cleaned_dataset.csv** is the final cleaned dataset file which has been used for EDA and visualization.
 
 Click [here](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata) to check the original dataset.
